@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Dipinti Manandhar
-- 🌱 I’m currently studying M.Tech in Computer Science and Engineering from IIT Jodhpur
+
 - 📫 How to reach me dipintimanandhar@gmail.com
 
 <!---
